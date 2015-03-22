@@ -3,6 +3,7 @@
 ##to get this value in the future we can just retrieve it instead of calculating
 ##it again.
 
+
 ##The function makeCacheMatrix makes a list given an input matrix x, using the 
 # scoping rules to buffer the value of the inverse if the function has already
 ##being called. 
